@@ -1,4 +1,4 @@
-<h1>Hello, I'm Graciano! <br/> <a href="www.linkedin.com/in/graciano-barrera/">Cybersecurity Professional</a>
+<h1>Hello, I'm Graciano! <br/> <a href="https://www.linkedin.com/in/graciano-barrera">Cybersecurity Professional</a>
 
 <h2>Cybersecurity Projects:</h2>
 
