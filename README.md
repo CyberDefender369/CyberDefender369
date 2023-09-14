@@ -3,7 +3,9 @@
 <h2>Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/CyberDefender369/ActiveDirectoryLab)
-- [Crafting Health Potion (Programming)](https://github.com/BarreraCyber/LABURL)
+<h2>Programming Projects:</h2>
+
+- [Crafting Health Potion](https://github.com/BarreraCyber/LABURL)
 
 <h2>Connect with me:</h2>
 
