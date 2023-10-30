@@ -5,7 +5,7 @@
 - [Active Directory Home Lab](https://github.com/CyberDefender369/ActiveDirectoryLab)
 <h2>Programming Projects:</h2>
 
-- [Crafting Health Potion](https://github.com/CyberDefender369/Health-Potion)
+- [Health Potion](https://github.com/CyberDefender369/Health-Potion)
 
 <h2>Connect with me:</h2>
 
