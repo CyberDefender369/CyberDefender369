@@ -3,6 +3,8 @@
 <h2>Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/CyberDefender369/ActiveDirectoryLab)
+- [Pen Testing Live Targets](https://github.com/CyberDefender369/Pen-Testing-Live-Targets)
+  
 <h2>Programming Projects:</h2>
 
 - [Health Potion](https://github.com/CyberDefender369/Health-Potion)
