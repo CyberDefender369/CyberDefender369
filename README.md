@@ -6,8 +6,8 @@
 - [Pen Testing Live Targets](https://github.com/CyberDefender369/Pen-Testing-Live-Targets)
 - [WordPress Pen Testing](https://github.com/CyberDefender369/WordPress-Pen-Testing)
 - [Azure Sentinel (SIEM)](https://github.com/CyberDefender369/Azure-Sentinel-SIEM-)
-- [File Integrity Monitor]()
-- [Vulnerability Management]()
+- [File Integrity Monitor](https://github.com/CyberDefender369/File-Integrity-Monitor)
+- [Vulnerability Management](https://github.com/CyberDefender369/Vulnerability-Management)
   
 <h2>Programming Projects:</h2>
 
