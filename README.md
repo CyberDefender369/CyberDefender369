@@ -24,7 +24,6 @@
 - [Make Own Coin](https://github.com/CyberDefender369/Make-Own-Coin)
 - [Make All Coins](https://github.com/CyberDefender369/Make-All-Coins)
 - [Make Own Bank](https://github.com/CyberDefender369/Make-Own-Bank)
-- [Rock Paper Scissors](https://github.com/CyberDefender369/Rock-Paper-Scissors)
 
 <h2>Connect with me:</h2>
 
