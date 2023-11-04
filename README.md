@@ -2,9 +2,12 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/CyberDefender369/ActiveDirectoryLab)
+- [Active Directory](https://github.com/CyberDefender369/ActiveDirectoryLab)
 - [Pen Testing Live Targets](https://github.com/CyberDefender369/Pen-Testing-Live-Targets)
 - [WordPress Pen Testing](https://github.com/CyberDefender369/WordPress-Pen-Testing)
+- [Azure Sentinel (SIEM)]()
+- [File Integrity Monitor]()
+- [Vulnerability Management]()
   
 <h2>Programming Projects:</h2>
 
