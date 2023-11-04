@@ -8,6 +8,8 @@
 - [Azure Sentinel (SIEM)](https://github.com/CyberDefender369/Azure-Sentinel-SIEM-)
 - [File Integrity Monitor](https://github.com/CyberDefender369/File-Integrity-Monitor)
 - [Vulnerability Management](https://github.com/CyberDefender369/Vulnerability-Management)
+- [pfSense Firewall]()
+- [Network Traffic Analysis]()
   
 <h2>Programming Projects:</h2>
 
