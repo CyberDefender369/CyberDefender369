@@ -1,6 +1,6 @@
-<h1>Hello, I'm Graciano! <br/> <a href="https://www.linkedin.com/in/graciano-barrera">IT/Cybersecurity Professional</a>
+# Hello, I'm Graciano! <br/> <a href="https://www.linkedin.com/in/graciano-barrera">IT/Cybersecurity Professional</a>
 
-<h2>Cybersecurity Projects:</h2>
+## Cybersecurity Projects:
 
 - [Active Directory](https://github.com/CyberDefender369/ActiveDirectoryLab)
 - [Pen Testing Live Targets](https://github.com/CyberDefender369/Pen-Testing-Live-Targets)
@@ -11,7 +11,7 @@
 - [pfSense Firewall]()
 - [Network Traffic Analysis]()
   
-<h2>Programming Projects:</h2>
+## Programming Projects:
 
 - [Health Potion](https://github.com/CyberDefender369/Health-Potion)
 - [Hello You](https://github.com/CyberDefender369/Hello-You)
@@ -25,7 +25,7 @@
 - [Make All Coins](https://github.com/CyberDefender369/Make-All-Coins)
 - [Make Own Bank](https://github.com/CyberDefender369/Make-Own-Bank)
 
-<h2>Connect with me:</h2>
+## Connect with me:
 
 [<img align="left" alt="Graciano Barrera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
