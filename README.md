@@ -20,7 +20,7 @@
 - [Movie Theater Simulator](https://github.com/CyberDefender369/Movie-Theater-Simulator)
 - [Kid Conversation Simulator](https://github.com/CyberDefender369/Kid-Conversation-Simulator)
 - [Latin Translator](https://github.com/CyberDefender369/Latin-Translator) 
-<!-- [Tic Tac Toe](https://github.com/CyberDefender369/Tic-Tac-Toe) -->
+- [Tic Tac Toe](https://github.com/CyberDefender369/Tic-Tac-Toe) 
 <!-- [Make Own Coin](https://github.com/CyberDefender369/Make-Own-Coin) -->
 <!-- [Make All Coins](https://github.com/CyberDefender369/Make-All-Coins) -->
 <!-- [Make Own Bank](https://github.com/CyberDefender369/Make-Own-Bank) -->
