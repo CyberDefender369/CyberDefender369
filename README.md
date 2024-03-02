@@ -1,6 +1,6 @@
 # Hello, I'm Graciano! <br/> <a href="https://www.linkedin.com/in/graciano-barrera">IT Professional</a>
 
-## Cybersecurity Projects:
+## IT Projects:
 
 - [Active Directory](https://github.com/CyberDefender369/ActiveDirectoryLab)
 - [Pen Testing Live Targets](https://github.com/CyberDefender369/Pen-Testing-Live-Targets)
