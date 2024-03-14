@@ -19,10 +19,9 @@
 - [Ridiculous Security System](https://github.com/CyberDefender369/Ridiculous-Security-System)
 - [Movie Theater Simulator](https://github.com/CyberDefender369/Movie-Theater-Simulator)
 - [Kid Conversation Simulator](https://github.com/CyberDefender369/Kid-Conversation-Simulator)
-- [Latin Translator](https://github.com/CyberDefender369/Latin-Translator) 
+- [Pig Latin Translator](https://github.com/CyberDefender369/Latin-Translator) 
 - [Tic Tac Toe](https://github.com/CyberDefender369/Tic-Tac-Toe) 
-<!-- [Make Own Coin](https://github.com/CyberDefender369/Make-Own-Coin) -->
-<!-- [Make All Coins](https://github.com/CyberDefender369/Make-All-Coins) -->
+<!-- [American Coins](https://github.com/CyberDefender369/Make-All-Coins) -->
 <!-- [Make Own Bank](https://github.com/CyberDefender369/Make-Own-Bank) -->
 
 ## Connect with me:
