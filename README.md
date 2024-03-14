@@ -1,4 +1,4 @@
-# Hello, I'm Graciano! <br/> <a href="https://www.linkedin.com/in/graciano-barrera">IT Professional</a>
+# Hello, I'm Graciano! </a>
 
 ## IT Projects:
 
