@@ -21,7 +21,7 @@
 - [Kid Conversation Simulator](https://github.com/CyberDefender369/Kid-Conversation-Simulator)
 - [Pig Latin Translator](https://github.com/CyberDefender369/Latin-Translator) 
 - [Tic Tac Toe](https://github.com/CyberDefender369/Tic-Tac-Toe) 
-<!-- [American Coins](https://github.com/CyberDefender369/Make-All-Coins) -->
+- [American Coins](https://github.com/CyberDefender369/Make-All-Coins) 
 <!-- [Make Own Bank](https://github.com/CyberDefender369/Make-Own-Bank) -->
 
 ## Connect with me:
