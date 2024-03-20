@@ -22,7 +22,8 @@
 - [Pig Latin Translator](https://github.com/CyberDefender369/Latin-Translator) 
 - [Tic Tac Toe](https://github.com/CyberDefender369/Tic-Tac-Toe) 
 - [American Coins](https://github.com/CyberDefender369/Make-All-Coins) 
-- [Rock Paper Scissors](https://github.com/CyberDefender369/Rock-Paper-Scissors) 
+- [Rock Paper Scissors](https://github.com/CyberDefender369/Rock-Paper-Scissors)
+<!-- [Cost Effective Solution]() -->
 
 ## Connect with me:
 
