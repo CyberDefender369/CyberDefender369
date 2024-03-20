@@ -23,7 +23,7 @@
 - [Tic Tac Toe](https://github.com/CyberDefender369/Tic-Tac-Toe) 
 - [American Coins](https://github.com/CyberDefender369/Make-All-Coins) 
 - [Rock Paper Scissors](https://github.com/CyberDefender369/Rock-Paper-Scissors)
-<!-- [Cost Effective Solution]() -->
+<!-- [Bubble Solution]() -->
 
 ## Connect with me:
 
