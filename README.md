@@ -22,7 +22,7 @@
 - [Pig Latin Translator](https://github.com/CyberDefender369/Latin-Translator) 
 - [Tic Tac Toe](https://github.com/CyberDefender369/Tic-Tac-Toe) 
 - [American Coins](https://github.com/CyberDefender369/Make-All-Coins) 
-<!-- [Make Own Bank](https://github.com/CyberDefender369/Make-Own-Bank) -->
+- [Rock Paper Scissors](https://github.com/CyberDefender369/Rock-Paper-Scissors) 
 
 ## Connect with me:
 
