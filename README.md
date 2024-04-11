@@ -16,8 +16,8 @@
 <!-- [Health Potion](https://github.com/CyberDefender369/Health-Potion) -->
 <!-- [Hello You](https://github.com/CyberDefender369/Hello-You) -->
 <!-- [Email Slicer](https://github.com/CyberDefender369/Email-Slicer) -->
-- [Ridiculous Security System](https://github.com/CyberDefender369/Ridiculous-Security-System)
-- [Movie Theater Simulator](https://github.com/CyberDefender369/Movie-Theater-Simulator)
+<!-- [Ridiculous Security System](https://github.com/CyberDefender369/Ridiculous-Security-System) -->
+<!-- [Movie Theater Simulator](https://github.com/CyberDefender369/Movie-Theater-Simulator) -->
 - [Kid Conversation Simulator](https://github.com/CyberDefender369/Kid-Conversation-Simulator)
 - [Pig Latin Translator](https://github.com/CyberDefender369/Latin-Translator) 
 - [Tic Tac Toe](https://github.com/CyberDefender369/Tic-Tac-Toe) 
