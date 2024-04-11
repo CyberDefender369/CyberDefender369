@@ -18,8 +18,8 @@
 <!-- [Email Slicer](https://github.com/CyberDefender369/Email-Slicer) -->
 <!-- [Ridiculous Security System](https://github.com/CyberDefender369/Ridiculous-Security-System) -->
 <!-- [Movie Theater Simulator](https://github.com/CyberDefender369/Movie-Theater-Simulator) -->
-- [Kid Conversation Simulator](https://github.com/CyberDefender369/Kid-Conversation-Simulator)
-- [Pig Latin Translator](https://github.com/CyberDefender369/Latin-Translator) 
+<!-- [Kid Conversation Simulator](https://github.com/CyberDefender369/Kid-Conversation-Simulator) -->
+<!-- [Pig Latin Translator](https://github.com/CyberDefender369/Latin-Translator) -->
 - [Tic Tac Toe](https://github.com/CyberDefender369/Tic-Tac-Toe) 
 - [American Coins](https://github.com/CyberDefender369/Make-All-Coins) 
 - [Rock Paper Scissors](https://github.com/CyberDefender369/Rock-Paper-Scissors)
