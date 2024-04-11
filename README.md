@@ -2,7 +2,7 @@
 
 ## IT Projects:
 
-- [Active Directory](https://github.com/CyberDefender369/ActiveDirectoryLab)
+- [Active Directory](https://github.com/CyberDefender369/Active-Directory-Home-Lab)
 - [Pen Testing Live Targets](https://github.com/CyberDefender369/Pen-Testing-Live-Targets)
 - [WordPress Pen Testing](https://github.com/CyberDefender369/WordPress-Pen-Testing)
 <!-- [Azure Sentinel (SIEM)](https://github.com/CyberDefender369/Azure-Sentinel-SIEM-) -->
