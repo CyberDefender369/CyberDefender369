@@ -1,29 +1,24 @@
-# Hello, I'm Graciano! </a>
+# Hello, I'm Graciano! 
+
 
 ## IT Projects:
 
 - [Active Directory](https://github.com/CyberDefender369/Active-Directory-Home-Lab)
+- [Office 365](https://github.com/CyberDefender369/Office-365-Home-Lab)
+
+
+## Cybersecurity Projects:
 - [Pen Testing Live Targets](https://github.com/CyberDefender369/Pen-Testing-Live-Targets)
 - [WordPress Pen Testing](https://github.com/CyberDefender369/WordPress-Pen-Testing)
-<!-- [Azure Sentinel (SIEM)](https://github.com/CyberDefender369/Azure-Sentinel-SIEM-) -->
-<!-- [File Integrity Monitor](https://github.com/CyberDefender369/File-Integrity-Monitor) -->
-<!-- [Vulnerability Management](https://github.com/CyberDefender369/Vulnerability-Management) -->
-<!-- [pfSense Firewall]() -->
-<!-- [Network Traffic Analysis]() -->
+
   
 ## Programming Projects:
 
-<!-- [Health Potion](https://github.com/CyberDefender369/Health-Potion) -->
-<!-- [Hello You](https://github.com/CyberDefender369/Hello-You) -->
-<!-- [Email Slicer](https://github.com/CyberDefender369/Email-Slicer) -->
-<!-- [Ridiculous Security System](https://github.com/CyberDefender369/Ridiculous-Security-System) -->
-<!-- [Movie Theater Simulator](https://github.com/CyberDefender369/Movie-Theater-Simulator) -->
-<!-- [Kid Conversation Simulator](https://github.com/CyberDefender369/Kid-Conversation-Simulator) -->
-<!-- [Pig Latin Translator](https://github.com/CyberDefender369/Latin-Translator) -->
 - [Tic Tac Toe](https://github.com/CyberDefender369/Tic-Tac-Toe) 
 - [American Coins](https://github.com/CyberDefender369/Make-All-Coins) 
 - [Rock Paper Scissors](https://github.com/CyberDefender369/Rock-Paper-Scissors)
 - [Bubble Solution Manufacturing Simulation](https://github.com/CyberDefender369/Bubble-Solution-Manufacturing-Simulation)
+
 
 ## Connect with me:
 
