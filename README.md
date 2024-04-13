@@ -4,7 +4,6 @@
 ## IT Projects:
 
 - [Active Directory](https://github.com/CyberDefender369/Active-Directory-Home-Lab)
-- [Office 365](https://github.com/CyberDefender369/Office-365-Home-Lab)
 
 
 ## Cybersecurity Projects:
