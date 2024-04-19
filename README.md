@@ -9,7 +9,7 @@
 
 ## Cybersecurity Projects:
 - [Web Security: Pen Testing Live Targets](https://github.com/CyberDefender369/Web-Security-Pen-Testing-Live-Targets)
-- [WordPress Pen Testing](https://github.com/CyberDefender369/WordPress-Pen-Testing)
+- [Web Security: WordPress Pen Testing](https://github.com/CyberDefender369/WordPress-Pen-Testing)
 
   
 ## Programming Projects:
