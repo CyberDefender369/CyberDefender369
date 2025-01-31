@@ -13,4 +13,5 @@
   
 ## Programming Projects:
 
+- [Health Potion](https://github.com/CyberDefender369/Health-Potion)
 - [Hello You](https://github.com/CyberDefender369/Hello-You)
