@@ -15,3 +15,4 @@
 
 - [Health Potion](https://github.com/CyberDefender369/Health-Potion)
 - [Hello You](https://github.com/CyberDefender369/Hello-You)
+- [Email Slicer](https://github.com/CyberDefender369/Email-Slicer)
