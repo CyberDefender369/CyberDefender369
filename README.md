@@ -3,6 +3,9 @@
 ## IT Projects:
 - [Active Directory](https://github.com/CyberDefender369/Active-Directory-Home-Lab)
 
+## Networking Projects
+- [Small Business Network Simulation]()
+
 ## Cybersecurity Projects:
 - [Web Security: Pen Testing Live Targets](https://github.com/CyberDefender369/Web-Security-Pen-Testing-Live-Targets)
   
