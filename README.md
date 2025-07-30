@@ -4,7 +4,7 @@
 - [Active Directory](https://github.com/CyberDefender369/Active-Directory-Home-Lab)
 
 ## Networking Projects
-- [Small Business Network Simulation](https://github.com/CyberDefender369/Small-Business-Network-Simulation)
+- [Small Business Network](https://github.com/CyberDefender369/Small-Business-Network)
 
 ## Cybersecurity Projects:
 - [Web Security: Pen Testing Live Targets](https://github.com/CyberDefender369/Web-Security-Pen-Testing-Live-Targets)
